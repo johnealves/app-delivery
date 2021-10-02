@@ -1,16 +1,14 @@
 # app-delivery
 
-Link deploy: https://telivery.herokuapp.com/
+App desenvolvido para rodar preferencialmente em telas mobile.
 
-O layout foi criado voltado para tela de celulares e aparelhos portateis
+Link deploy: https://telivery.herokuapp.com/
 
 Esta aplicação esta definida e dois repositorios:
 
 Front-end: https://github.com/johnealves/delivery-app-front-end
  
 beck-end: https://github.com/johnealves/delivery-app-back-end
-
----
 
 # Contexto
 
