@@ -23,6 +23,10 @@ Como seu antigo sistema, que era um conjunto de planilhas, já não atende a nec
 A ideia da sua equipe já pressupõe alguma escalabilidade, dado que foram estabelecidas algumas entidades genéricas no banco de dados e componentização no front-end, para que, caso o sistema cresça, não seja muito difícil mudar e ampliar essa estrutura.
 
 ---
+# Uso
+- Para utilizar a aplicação é possivel fazer login com o e-mail zebirita@email.com e senha $#zebirita#$, ou criar um um usuario novo clicando em cadastrar-se
+- Apos logar é possivel escolher produtos e finalizar compra, após isso é possivel ver pedidos feitos e acompanhar status dos pedidos.
+- Apos realizar logout como cliente é possivel login como éssoa vendedora com o e-mail fulana@deliveryapp.com e senha fulana@123, dessa formar é possivel ver os pedidos feitos confirmar preparo do pedido e marcar como indo para entrega.
 
 # Habilidades
 
